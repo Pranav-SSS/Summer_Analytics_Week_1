@@ -1,2 +1,2 @@
 # Summer_Analytics_Assignments
-Summer_Analytics_Week_1_Assignment
+Summer_Analytics_Week_Wise_Assignment
